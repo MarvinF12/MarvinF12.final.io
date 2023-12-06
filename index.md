@@ -4,7 +4,7 @@ This is my home page! My name is Marvin Fierro and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is 
+My GitHub page is http://github.com/MarvinF12.
 
 ### CPSC 120
 
